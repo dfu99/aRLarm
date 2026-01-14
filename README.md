@@ -2,9 +2,9 @@
 Training + playback workflow for a 2D planar robotic arm (tested up to 6-DOF) using SAC with attention.
 
 ## Demo
-<video src="demo/videos_grid.mp4" controls muted playsinline loop width="100%"></video>
+<img src="demo/demo_grid.gif" alt="aRLarm demo" width="100%">
 
-If the video doesn't render, open `demo/videos_grid.mp4`.
+If the image doesn't render, open `demo/demo_grid.gif`.
 
 ## Features
 - Planar arm environment with configurable link count and scaling.
