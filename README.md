@@ -51,3 +51,6 @@ python aRLarm.py --play --record-video --max-frames 250
 ## Outputs
 - Models are saved under `./models/` (default).
 - Optional video output when `--record-video` is enabled.
+
+### 📔 Personal note
+This was a nostalgic revisit to one of my first projects when learning ML [2D robot arm by learning the inverse kinematics](https://github.com/dfu99/2R-3R-PlanarManipulatorIK-DNN).
