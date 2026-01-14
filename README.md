@@ -4,7 +4,7 @@ Training + playback workflow for a 2D planar robotic arm (tested up to 6-DOF) us
 ## Demo
 <img src="demo/demo_grid.gif" alt="aRLarm demo" width="100%">
 
-If the image doesn't render, open `demo/demo_grid.gif`.
+See `demo/demo_grid.mp4` for higher-definition video.
 
 ## Features
 - Planar arm environment with configurable link count and scaling.
